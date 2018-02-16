@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d12d4dd1a48c27e4491a93da686b4c40
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - explosive: {instanceID: 0}
+  - enemyBullet: {instanceID: 0}
+  - ExplosionAnime: {fileID: 149030, guid: f108ae8f1020b2548a11dd66f476ffda, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
